@@ -1,0 +1,20 @@
+.card-body {
+  display: flex;
+  align-items: center;
+}
+
+.history {
+  margin-bottom: 25%;
+  margin-right: 10%;
+  color: #fff;
+  text-align: center;
+}
+
+.body-title {
+  text-decoration: underline;
+}
+
+.logo {
+  position: sticky;
+  bottom: 10%;
+}
